@@ -1,3 +1,3 @@
-# Push_Swap Resource
+# Push_Swap
 
-https://push_swap.simple.ink/
+A project to create a simple sorting algorithm with a limited set of actions available to it
